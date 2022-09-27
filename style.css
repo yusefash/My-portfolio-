@@ -1,1 +1,17 @@
-
+body {
+	background-color: white;
+  margin: 0;
+}
+header h1 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 40px;
+	padding-top: 50px;
+	margin: 0 0 0 20px;
+  text-align: center;
+  color:red;
+}
+h2{ 
+  color:yellow;
+  font-size: 35px;
+  font-family:'Quattrocento Sans', sans-serif;
+}
